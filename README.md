@@ -12,7 +12,7 @@ Dialogs/
 │   ├──
 │   ├──
 │   ├──
-#├── Scenes/#
+#├── Scenes/
 │   └── TestModule/
 │   │   ├── TestCommonDialog.scene
 │   │   └── TestManyAnswers.scene
